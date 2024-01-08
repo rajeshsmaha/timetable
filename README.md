@@ -126,5 +126,6 @@ Execute the program
 ```
 # OUPUT
 ![](./output.png)
+
 # Result
 The program is successfully executed.
