@@ -125,7 +125,7 @@ Execute the program
 </table>
 ```
 # OUPUT
-![](./output.png)
+![image](https://github.com/rajeshsmaha/timetable/assets/147608800/7d0c190b-1f38-41eb-b9d7-8d78e21d58e6)
 
 # Result
 The program is successfully executed.
