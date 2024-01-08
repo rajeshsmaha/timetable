@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE:
+```
 <title>SEC SLOT TIMETABLE</title>
 <body><IMG src="logo.png" 
 	height="100" width="600" align="center" border="2"></body>
@@ -122,6 +123,7 @@ Execute the program
     <td align="center">soft skills(SS)</td>
 </tr>
 </table>
+```
 # OUPUT
 ![](./output.png)
 # Result
